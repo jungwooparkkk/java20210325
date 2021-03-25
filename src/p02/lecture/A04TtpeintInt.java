@@ -1,6 +1,6 @@
 package p02.lecture;
 
-public class A04Ttpeint {
+public class A04TtpeintInt {
 	public static void main(String[] args) {
 		//int : 4byte (32bit)
 		
