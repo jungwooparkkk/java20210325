@@ -1,7 +1,7 @@
 package p02.lecture;
 
 public class A04typeShort {
-	private void mian() {
+	private void main(String[]args) {
 		//short : 2byte (16bit)의 정수 저장
 		
 		//최소값 : -32,768
