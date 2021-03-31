@@ -9,7 +9,6 @@ public class A13ForGCD {
 		// ex : 5 , 10 ==> 5
 		
 		Scanner scanner = new Scanner(System.in);
-//		int a= 0;
 		System.out.println("두 수를 입력하세요>");
 		int num1 = scanner.nextInt();
 		int num2 = scanner.nextInt();
@@ -18,6 +17,7 @@ public class A13ForGCD {
 		
 		//최대공약수를 출력하는 코드 작성...
 		
+//		int a= 0;
 //		while(num1 != 0) {
 //			if(num1 < num2) {
 //				a = num1;
