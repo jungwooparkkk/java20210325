@@ -16,7 +16,6 @@ public class A18ArraySample {
 	public static double avg(int[] arr) {
 //		double avg = 0;
 //		double v = 0;
-//		
 //		for (int i = 0; i <arr.length; i++) {
 //			v += arr[i];
 //			avg = v/(i+1);
