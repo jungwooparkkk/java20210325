@@ -1,4 +1,4 @@
-package p06.textbooks061004;
+package p06.textbook.s061004;
 
 public class Car {
 	int speed;
