@@ -9,6 +9,6 @@ public class A03JavaLang {
 		java.lang.String str = "Hello";
 		String str2 = "Hello";
 		
-		java.lang.System.out.println("world");
+		java.lang.System.out.println("world"); // java.lang. 생략가능
 	}
 }
