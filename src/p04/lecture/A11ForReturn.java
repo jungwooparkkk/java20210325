@@ -5,7 +5,7 @@ public class A11ForReturn {
 		
 		return; //메소드가 종료되고, 오른쪽 값을 반환(return)
 		
-		System.out.println("hello");
+//		System.out.println("hello");
 		
 	}
 }
