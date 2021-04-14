@@ -11,7 +11,7 @@ public class A14TypeConversion {
 		long longVar1 = 55;
 		
 		//int intVar4 = intVar1 = longVar1;
-		long longVar2 = intVar1 + doubleVar1;
+		long longVar2 = intVar1 + longVar1;
 		
 		double doubleVar1 = 3.14;
 		double doubleVar2 = intVar1 + doubleVar1;
