@@ -13,8 +13,8 @@ public class A {
 
 	class B {
 		void method() {
-			field1 = 10;
 			method1();
+			field1 = 10;
 
 			field2 = 10;
 			method2();
