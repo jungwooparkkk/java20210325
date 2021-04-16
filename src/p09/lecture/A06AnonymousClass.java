@@ -1,0 +1,19 @@
+package p09.lecture;
+
+public class A06AnonymousClass {
+	public static void main(String[] args) {
+		int localVar = 3;
+		
+//		localVar = 4;
+		
+//		args = new Stirng[] {};
+		
+		MyInterface i1 = new MyInterface() {
+			void method() {
+				System.out.println(localVar);
+				System.out.println(args);
+			}
+		};
+		
+	}
+}
