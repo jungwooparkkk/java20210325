@@ -26,7 +26,4 @@ public class Student {
 	public int hashCode() {
 		return studentNum.hashCode();
 	}
-
-
-
 }
