@@ -1,4 +1,4 @@
-package p13.textbooks.s130601;
+package p13.textbook.s130601;
 
 public class Worker extends Person {
 	public Worker(String name) {
