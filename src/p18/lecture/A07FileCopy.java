@@ -1,4 +1,4 @@
-package p18;
+package p18.lecture;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
